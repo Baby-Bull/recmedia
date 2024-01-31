@@ -1,0 +1,20 @@
+{
+  "input-tag-placeholder": "フリーワード検索",
+  "label-checkbox-1": "参加中のコミュニティを除外",
+  "span-create-community-direction": "コミュニティを作りたい方はこちら",
+  "btn-create-community": "コミュニティ作成",
+  "title": "コミュニティ一覧",
+  "sort-by": "並び替え",
+  "recommend-order": "オススメ順",
+  "latest-order": "最新順",
+  "btn-search": "検索",
+  "btn-clear-condition": "検索条件クリア",
+
+  "box-item": {
+    "number-of-participant": "参加人数：0人"
+  },
+  
+  "validate-search-form":{
+    "input-length": "20文字以内で記入してください。"
+  }
+}

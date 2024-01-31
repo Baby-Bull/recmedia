@@ -1,0 +1,19 @@
+.showAdmin {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  -webkit-line-clamp: 1;
+  -webkit-box-orient: vertical;
+  display: -webkit-box;
+  font-weight: 700;
+  color: #1A2944;
+  cursor: pointer;
+  width: 90px
+}
+
+.showAdmin:hover {
+  overflow: visible;
+  text-overflow: unset;
+  -webkit-line-clamp: unset;
+  -webkit-box-orient: unset;
+  display: unset;
+}

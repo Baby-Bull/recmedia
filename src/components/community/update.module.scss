@@ -1,0 +1,30 @@
+.hint {
+  display: none;
+  color: #989ea8;
+  width: 320px;
+  border-radius: 12px;
+  border: #03bcdb 1px solid;
+  padding: 8px 27px 8px 13px;
+  height: max-content;
+  font-weight: 400;
+  font-size: 14px;
+  position: absolute;
+  z-index: 1;
+  background: #fff;
+  margin-left: 20px;
+  margin-top: -20px;
+}
+.hintIconQuestion {
+  cursor: pointer;
+  &:hover + .hint {
+    display: block;
+  }
+}
+.linkToDetail {
+  margin-left: 1em;
+  font-weight: 500;
+  cursor: pointer;
+  &:hover {
+    color: #03bcdb;
+  }
+}

@@ -1,0 +1,68 @@
+.quillContainerEditable :global(.ql-editor) {
+    font-family: Noto Sans JP, sans-serif !important;
+    // ol {
+    //     list-style-type: none;
+    //     /* Remove default numbering */
+    //   }
+    
+    //   ol>li:before {
+    //     counter-increment: listcounter;
+    //     content: counter(listcounter) ". ";
+    //   }
+    
+      ol:first-of-type {
+        counter-reset: list-0 list-1 list-2 list-3 list-4 list-5 list-6 list-7 list-8 list-9;
+      }
+}
+
+.quillContainerEditable :global(.ql-editor.ql-blank::before) {
+  font-style: inherit;
+}
+
+.quillContainerReadonly :global(.ql-editor) {
+    font-family: Noto Sans JP, sans-serif !important;
+    ol:first-of-type {
+        counter-reset: list-0 list-1 list-2 list-3 list-4 list-5 list-6 list-7 list-8 list-9;
+      }
+}
+
+.quillContainerEditable :global(.ql-toolbar) {
+      background-color: #F4FDFF !important;
+      border: none !important;
+      border-bottom: 1px solid #ccc !important;
+}
+
+.quillContainerEditable :global(.ql-container) {
+  background-color: #F4FDFF !important;
+  border: none !important;
+}
+
+.quillContainerEditable :global(.ql-tooltip) {
+  z-index: 1;
+}
+
+.quillContainerEditable :global(.ql-syntax) {
+    font-family: Noto Sans JP, sans-serif;
+}
+
+.quillContainerEditable :global(.ql-tooltip[data-mode="link"]::before) {
+  font-family: Noto Sans JP, sans-serif;
+  content: "リンクを入力:";
+}
+
+.quillContainerEditable :global(.ql-tooltip[data-mode="link"] a.ql-action::after) {
+  font-family: Noto Sans JP, sans-serif;
+  content: "保存";
+}
+
+.quillContainerReadonly :global(.ql-toolbar) {
+  display: none;
+}
+
+.quillContainerReadonly :global(.ql-container) {
+  border: none !important;
+}
+
+.quillContainerReadonly :global(.ql-syntax) {
+  font-family: Noto Sans JP, sans-serif;
+}

@@ -1,0 +1,192 @@
+{
+  "matching-members": "マッチング中のメンバー",
+  "community-members": "コミュニティメンバー",
+  "community-is-approved": "このコミュニティは承認制です。",
+  "if-community-is-approved": "参加申請をし、承認されると閲覧が可能になります。",
+  "after-join": "参加申請をし、承認されると",
+  "can-approve": "閲覧が可能になります。",
+  "comment": "コメント",
+  "write-comment": "コメントする",
+  "place-holder": "1000文字以内で記入してください",
+  "url": "URL",
+  "address": "場所",
+  "banner": {
+    "count-member": "参加人数",
+    "count-online": "ログイン中",
+    "join": "このコミュニティに参加する",
+    "join-SP": "参加する",
+    "withdraw": "コミュニティを退会する",
+    "withdraw-SP": "退会する",
+    "apply": "参加申請する",
+    "applying": "申請中"
+  },
+  "button": {
+    "copy-url": "URLをコピー",
+    "load-more": "もっと見る",
+    "create-post": "投稿を作成",
+    "go-to-virtual-room": "バーチャルルーム入室",
+    "intro": {
+      "create-post": "新規投稿を作成",
+      "redirect-to-community": "コミュニティトップに戻る"
+    },
+    "dropdown": {
+      "edit": "編集する",
+      "delete": "削除する"
+    },
+    "empty": {
+      "create-post": "投稿を作成する",
+      "apply": "参加申請する",
+      "applying": "申請中",
+      "go-to-talk-room": "チャットルームへ",
+      "talk-to-community": "コミュニティチャットへ"
+    },
+    "dialog": {
+      "cancel": "キャンセル",
+      "cancel-2": "キャンセルする",
+      "withdraw": "退会する",
+      "delete-community": "コミュニティを削除",
+      "stop-create-community": "コミュニティの作成をやめる ",
+      "block": "ブロックする",
+      "unblock": "ブロックを解除する",
+      "delete-comment": "削除する"
+    },
+    "detail": {
+      "submit-post": "投稿する",
+      "cancel-edit": "キャンセル"
+    },
+    "setting": {
+      "save": "作成する",
+      "upload": "画像をアップロード",
+      "participation": {
+        "approve": "承認する",
+        "reject": "拒否する"
+      },
+      "member": {
+        "block": "ブロックする",
+        "block-SP": "ユーザーをブロックする",
+        "unblock": "ブロック解除",
+        "unblock-SP": "解除"
+      }
+    }
+  },
+  "intro": {
+    "title": {
+      "detail": "詳細",
+      "administrator": "管理人",
+      "open-date": "開設日",
+      "role-create-post": "投稿の作成権限"
+    }
+  },
+  "empty": {
+    "no-post": "まだ投稿がありません。",
+    "create-post": "投稿を作成して",
+    "talk-to-members": "コミュニティメンバーと話してみましょう！",
+    "withdraw-1": "コミュニティに参加するとグループチャットが自動で追加されます。",
+    "withdraw-2": "チャットでメンバーと気軽に話してみよう！",
+    "withdraw-3": "※コミュニティを退会するとチャットからも自動的に退出となります"
+  },
+  "dialog": {
+    "confirm": "コミュニティ名コミュニティ名コミュニティ名を本当に退会しますか？",
+    "note": "コミュニティを退会すると、グループチャットからも退出になります。",
+    "confirm-delete-title": "の投稿を本当に削除しますか？",
+    "note-delete-title1": "ブロックをすると、このコミュニティから強制退会となり、このコミュニティの閲覧、再参加ができなくなります。",
+    "note-delete-title2": "運営に通報をしたい場合は、該当者のプロフィール画面又は個人メッセージ画面から通報をお願いします。",
+    "note-delete-title": "削除をすると投稿内容や投稿についたコメントは閲覧できなくなります。"
+  },
+  "detail": {
+    "comment": {
+      "latest-order": "最新順",
+      "posting-order": "投稿順",
+      "delete-community": "コメントを本当に削除しますか？",
+      "delete-content": "削除したコメントは元には戻せません。"
+    }
+  },
+  "form": {
+    "edit": "投稿を編集する",
+    "create": "コミュニティに投稿する",
+    "title": "タイトル",
+    "title-value": "タイトルがここに表示されています",
+    "detail": "詳細",
+    "url": "URL（任意）",
+    "address": "場所（任意）",
+    "submit-edit": "変更内容を保存",
+    "submit-create": "投稿する ",
+    "placeholder": {
+      "title": "60文字以内で記入してください",
+      "detail": "1000文字以内で記入してください",
+      "url": "https://www.〇〇.jp",
+      "address": "東京都渋谷区渋谷◯-◯"
+    }
+  },
+  "setting": {
+    "title": "管理者メニュー",
+    "form": {
+      "back-detail-community": "コミュニティページ",
+      "text-upload": "コミュニティの画像を設定してください。",
+      "max-upload": "推奨サイズ 1200×1200px",
+      "name": "コミュニティ名",
+      "virtual-room": "仮想部屋へのリンク",
+      "detail": "コミュニティ詳細",
+      "representative": "代表者",
+      "administrator": "管理者追加",
+      "role-create-post": "投稿の作成権限",
+      "role-join": "コミュニティへの参加",
+      "tag": "コミュニティタグ",
+      "tag-post": "投稿のタグ",
+      "placeholder": {
+        "name": "40文字以内で記入してください",
+        "virtual-room": "https://www.〇〇.jp",
+        "detail": "1000文字以内で記入してください",
+        "administrator": "管理人に追加したいメンバーを選択",
+        "role-create-post": "選択してください",
+        "tag": "コミュニティに関するタグを設定すると検索されやすくなります",
+        "tag-SP": "設定すると検索されやすくなります"
+      },
+      "remove": "X削除",
+      "add": "＋追加する",
+      "delete-img": "現在の画像を削除する",
+      "explain": "管理者はコミュニティの削除以外の管理を全て行うことができます。",
+      "delete-community": "コミュニティを削除",
+      "stop-create-community": "コミュニティの作成をやめる ",
+      "dialog": {
+        "title": "コミュニティの削除",
+        "content": "一度削除をしてしまうと元には戻せません。本当に削除しますか？"
+      },
+      "save-success": "設定を保存しました"
+    },
+    "member": {
+      "dialog-block": {
+        "title": "をブロックしますか？",
+        "content": "ブロックをすると、このコミュニティから強制退会となり、このコミュニティの閲覧、再参加ができなくなります。運営に通報をしたい場合は、該当者のプロフィール画面又は個人メッセージ画面から通報をお願いします。",
+        "content1": "ブロックをすると、このコミュニティから強制退会となり、このコミュニティの閲覧、再参加ができなくなります。",
+        "content2": "運営に通報をしたい場合は、該当者のプロフィール画面又は個人メッセージ画面から通報をお願いします。"
+      },
+      "dialog-unblock": {
+        "title": "のブロックを解除しますか？",
+        "content": "ブロックを解除すると、このコミュニティへの参加、内容を見ることができるようになります。"
+      },
+      "back-community": "コミュニティTOPへ"
+    },
+    "participation": {
+      "title": "参加リクエスト",
+      "empty-private": "参加申請は届いていません。",
+      "empty-public1": "このコミュニティは承認制ではありません。",
+      "empty-public2": "設定の変更は",
+      "empty-public3": "基本設定",
+      "empty-public4": "のメニューから",
+      "empty-public5": "行ってください。",
+      "subject": "件"
+    }
+  },
+  "create": {
+    "title": "コミュニティ作成"
+  },
+  "request": "分にリクエスト",
+  "max_length_tag": "1つのタグを20文字以内で入力してください。",
+  "min_2_tag": "2種類以上設定してください。",
+  "tooltip_update": "管理者はコミュニティの削除以外の管理を全て行うことができます。",
+  "virtual-room": "バーチャルルーム入室",
+  "post": {
+    "no-data": "まだコメントがありません。"
+  }
+}

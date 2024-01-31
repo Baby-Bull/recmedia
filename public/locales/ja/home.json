@@ -1,0 +1,46 @@
+{
+    "matching": {
+        "request": "マッチングリクエスト",
+        "request-m": "マッチング\nリクエスト",
+        "request-unit": "件",
+        "application": "申請中のマッチング",
+        "application-m": "申請中の\nマッチング",
+        "application-unit": "件",
+        "people": "話したい人リスト",
+        "people-m": "話したい人\nリスト",
+        "people-unit": "人",
+        "community": "参加中のコミュニティ",
+        "community-m": "参加中の\nコミュニティ",
+        "community-unit": "つ",
+        "chat": "メッセージ",
+        "matched": "マッチング済",
+        "matched-m": "マッチング済"
+    },
+    "recommend-community": "オススメのコミュニティ",
+    "register-newest": "新規登録エンジニア",
+    "recent-login-member": "最近ログインしたエンジニア",
+    "member-favorite-area": "地域が近いエンジニア",
+    "member-favorite-tags": "タグが一緒のエンジニア",
+    "see-more": "もっと見る",
+    "box-community-recommend": {
+        "number-of-register": "ログイン中：%s人",
+        "number-of-members": "参加人数：%s人"
+    },
+    "box-member-recommend": {
+        "last-login": "ログイン：%s",
+        "no-login": "ログイン中",
+        "review": "レビュー",
+        "label-description": "話せること/聞きたいこと",
+        "label-talking": "話せること",
+        "like-string": "話したい人リストに登録"
+    },
+    "modal-matching": {
+        "purpose": "目的",
+        "purpose-placeholder": "選択してください",
+        "frequency": "希望日",
+        "frequency-placeholder": "例）◯月◯日希望",
+        "message": "メッセージ",
+        "message-placeholder": "その他話したい内容などをご記載ください。",
+        "button": "リクエストを送信"
+    }
+}

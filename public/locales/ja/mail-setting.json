@@ -1,0 +1,13 @@
+{
+  "configuration": "設定",
+  "email-address-setting": "メールアドレス設定",
+  "notification-settings": "通知設定",
+  "email-reception-settings": "メール受信設定",
+  "message-notification": "メッセージ通知",
+  "recommendation-notification": "レコメンド通知",
+  "save-changes": "変更を保存する",
+  "mail-setting-description": "新しく設定したいメールアドレス宛に再設定用URLをお送りします。",
+  "your-current-email-address": "現在のメールアドレス",
+  "new-email-address": "新規メールアドレス",
+  "send": "送信する"
+}

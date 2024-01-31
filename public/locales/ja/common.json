@@ -1,0 +1,38 @@
+{
+  "header-title": "KIAI-JA",
+  "header": {
+    "search-pc": "言語、地域などで検索",
+    "search-mb": "言語",
+    "list-engineers": "エンジニア一覧",
+    "list-community": "コミュニティ一覧",
+    "input-search-placeholder": "言語、趣味、地域",
+    "profile-editing": "プロフィール編集",
+    "message": "メッセージ",
+    "matching-request": "マッチングリクエスト",
+    "matching-you-applied-for": "申請したマッチング",
+    "list-people-you-want-to-talk": "話したい人リスト",
+    "participating-community": "参加中のコミュニティ",
+    "setting": "設定",
+    "logout": "ログアウト"
+  },
+  "footer": {
+    "signin": "ログイン",
+    "signout": "新規登録",
+    "terms-service": "利用規約",
+    "privacy-policy": "プライバシーポリシー",
+    "commerical-act": "特定商取引法に基づく表記",
+    "inquiry": "問い合わせ",
+    "operating-company": "運営会社",
+    "home": "ホーム",
+    "engineer-search": "エンジニア検索",
+    "community-search": "コミュニティ検索",
+    "logout": "ログアウト"
+  },
+  "body": {
+    "is_login": "ログイン中"
+  },
+  "showMore": "もっと見る",
+  "required": "必須",
+  "not_have_access": "アクセス権がありません。",
+  "no_info": "情報なし"
+}

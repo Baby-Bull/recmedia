@@ -1,0 +1,18 @@
+{
+  "purpose": "目的",
+  "date-interview": "希望日",
+  "message": "メッセージ",
+  "request": "にリクエスト",
+  "button": {
+    "approve": "承認する",
+    "reject": "拒否する",
+    "canceled": "キャンセルする",
+    "review": "レビューをする",
+    "open-message": "メッセージを開く",
+    "open-message-SP": "メッセージ",
+    "reviewed": "レビュー済",
+    "report": "通報",
+    "apply-matching": "マッチング申請する",
+    "applied": "リクエスト申請済"
+  }
+}

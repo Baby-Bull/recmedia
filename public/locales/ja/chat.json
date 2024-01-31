@@ -1,0 +1,62 @@
+{
+  "box-left-title": "メッセージ",
+  "box-left-input-search-placeholder": "アカウントを検索",
+  "box-right-no-data": "気になる人に\nマッチングリクエストを送ってみよう！",
+  "box-right-no-data-mobile": "気になる人に\nマッチングリクエストを\n送ってみよう！",
+  "box-right-button-find": "エンジニアを探す",
+  "input-chat-placeholder": "メッセージを入力する",
+  "box-right-button-find-community": "コミュニティを探す",
+
+  "purpose-firstMessage":"目的",
+  "date-firstMessage":"希望日",
+  "content-firstMessage":"メッセージ",
+
+  "btn-report": "通報",
+  "btn-review": "レビューをする",
+  "btn-review-sp": "レビュー",
+
+  "span-error-message": "メッセージを送信できませんでした",
+  "btn-resend": "再送する",
+  "btn-delete": "削除する",
+
+  "community-box-left-title": "グループチャット",
+  "community-box-left-input-search-placeholder": "グループチャットを検索",
+  "community-no-messages-start-chat": "話しましょう！",
+
+  "popup": {
+    "reason-for-reporting": "通報理由",
+    "required": "必須",
+    "background-to-the-report": "通報に至った経緯",
+    "text-confirm-report": "通報ボタンを押すと運営に通報が送信されます。本当に通報しますか？",
+    "send-report": "本当に通報する",
+    "cancel": "キャンセルする",
+    "thanks-report1": "通報にご協力いただきありがとうございます。",
+    "thanks-report2": "運営一同サービス改善に努めてまいります。",
+    "home": "ホームへ",
+    "evaluation": "評価",
+    "report": "通報",
+    "anonymous": "匿名",
+    "comment": "コメント",
+    "check-review": "レビューを確認",
+    "post-review": "レビューを投稿",
+    "review" : "へのレビュー",
+    "report_user": "を運営に通報する",
+    "to-fix": "修正する",
+    "twitter": "ツイートする",
+    "text-thanks-review": "レビュー投稿ありがとうございます！",
+    "text-share-review" : "Twitterにレビューを共有してみよう！",
+    "form": {
+      "placeholder":  {
+        "reason-for-reporting": "選択してください",
+        "background-to-the-report": "詳しく通報理由をご記入ください。",
+        "comment": "400文字以内で記入してください。"
+      },
+      "it-was-good": "良かった",
+      "it-was-bad": "悪かった",
+      "report-management": "運営に通報する",
+      "post-anonymously": "匿名で投稿",
+      "report-management-null": "通報しない",
+      "post-anonymously-null": "使用しない"
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "character-description": "キャラクター診断とは性格の多様性と共通性の両方に注目し、個人の性格を9つに分類したものです。",
+  "character-description-small": "※名前は表示されません",
+  "start-diagnosis": "診断を始める",
+  "character-diagnosis": "キャラクター診断",
+  "please-select-the-one-that-applies-to-you-from-the-questions": "設問のなかから自分に当てはまるものを選択してください",
+  "question1": "やるからには、何事も、具体的に実現しなければやる意味がない。",
+  "question-complete": "おつかれさまです！診断はこれで終了です",
+  "1-yes": "1 はい",
+  "2-no": "2 いいえ",
+  "hint": "ヒント",
+  "hint-content": "キーボードで数字を選択して回答することも可能です。",
+  "hint-answer": "1:はい 2:いいえ",
+  "view-diagnostic-results": "診断結果を見る",
+  "to-the-previous-answer": "前の回答へ",
+  "start1": "診",
+  "start2": "断",
+  "start3": "ス",
+  "start4": "タ",
+  "start5": "ー",
+  "start6": "ト"
+}
