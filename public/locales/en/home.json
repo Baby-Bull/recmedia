@@ -1,0 +1,46 @@
+{
+    "matching": {
+        "request": "Matching Requests",
+        "request-m": "Matching\nRequests",
+        "request-unit": "Requests",
+        "application": "Matching Applications",
+        "application-m": "Matching\nApplications",
+        "application-unit": "Applications",
+        "people": "People You Want to Talk to",
+        "people-m": "People You Want\nto Talk to",
+        "people-unit": "People",
+        "community": "Participating Communities",
+        "community-m": "Participating\nCommunities",
+        "community-unit": "Communities",
+        "chat": "Messages",
+        "matched": "Matched",
+        "matched-m": "Matched"
+    },
+    "recommend-community": "Recommended Communities",
+    "register-newest": "Newly Registered Engineers",
+    "recent-login-member": "Engineers Recently Logged In",
+    "member-favorite-area": "Engineers Near Your Area",
+    "member-favorite-tags": "Engineers with Similar Tags",
+    "see-more": "See More",
+    "box-community-recommend": {
+        "number-of-register": "Logged in: %s people",
+        "number-of-members": "Participants: %s people"
+    },
+    "box-member-recommend": {
+        "last-login": "Last Login: %s",
+        "no-login": "Currently Online",
+        "review": "Review",
+        "label-description": "Things to Talk About/Questions",
+        "label-talking": "Things to Talk About",
+        "like-string": "Added to People You Want to Talk to List"
+    },
+    "modal-matching": {
+        "purpose": "Purpose",
+        "purpose-placeholder": "Please select",
+        "frequency": "Preferred Date",
+        "frequency-placeholder": "Example: ◯月◯日 preferred",
+        "message": "Message",
+        "message-placeholder": "Please provide any additional information or topics you'd like to discuss.",
+        "button": "Send Request"
+    }
+}

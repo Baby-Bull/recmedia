@@ -1,0 +1,22 @@
+{
+  "character-description": "Character diagnosis focuses on both the diversity and commonality of personalities, categorizing individual personalities into nine types.",
+  "character-description-small": "* Names will not be displayed.",
+  "start-diagnosis": "Start Diagnosis",
+  "character-diagnosis": "Character Diagnosis",
+  "please-select-the-one-that-applies-to-you-from-the-questions": "Please select the option that applies to you from the questions.",
+  "question1": "When it comes to doing something, it's meaningless unless it is achieved concretely.",
+  "question-complete": "Great job! The diagnosis is now complete.",
+  "1-yes": "1 Yes",
+  "2-no": "2 No",
+  "hint": "Hint",
+  "hint-content": "You can also select answers using the keyboard numbers.",
+  "hint-answer": "1: Yes 2: No",
+  "view-diagnostic-results": "View Diagnostic Results",
+  "to-the-previous-answer": "Back to Previous Answer",
+  "start1": "D",
+  "start2": "i",
+  "start3": "a",
+  "start4": "g",
+  "start5": "n",
+  "start6": "o"
+}

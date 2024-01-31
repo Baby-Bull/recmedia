@@ -1,3 +1,38 @@
 {
-  "header-title": "KIAI"
+  "header-title": "KIAI-JA",
+  "header": {
+    "search-pc": "Search by language, region, etc.",
+    "search-mb": "Language",
+    "list-engineers": "Engineer List",
+    "list-community": "Community List",
+    "input-search-placeholder": "Language, hobby, region",
+    "profile-editing": "Edit Profile",
+    "message": "Messages",
+    "matching-request": "Matching Requests",
+    "matching-you-applied-for": "Applied Matching",
+    "list-people-you-want-to-talk": "People You Want to Talk To",
+    "participating-community": "Participating Communities",
+    "setting": "Settings",
+    "logout": "Logout"
+  },
+  "footer": {
+    "signin": "Sign In",
+    "signout": "Sign Up",
+    "terms-service": "Terms of Service",
+    "privacy-policy": "Privacy Policy",
+    "commercial-act": "Commercial Transactions Act",
+    "inquiry": "Inquiry",
+    "operating-company": "Operating Company",
+    "home": "Home",
+    "engineer-search": "Engineer Search",
+    "community-search": "Community Search",
+    "logout": "Logout"
+  },
+  "body": {
+    "is_login": "Logged In"
+  },
+  "showMore": "Show More",
+  "required": "Required",
+  "not_have_access": "You do not have access.",
+  "no_info": "No Information"
 }

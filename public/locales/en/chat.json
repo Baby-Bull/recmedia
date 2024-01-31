@@ -1,0 +1,62 @@
+{
+  "box-left-title": "Messages",
+  "box-left-input-search-placeholder": "Search for an account",
+  "box-right-no-data": "Send matching requests to people you're interested in!",
+  "box-right-no-data-mobile": "Send matching requests to\npeople you're interested in!",
+  "box-right-button-find": "Find Engineers",
+  "input-chat-placeholder": "Type your message",
+  "box-right-button-find-community": "Find Communities",
+
+  "purpose-firstMessage": "Purpose",
+  "date-firstMessage": "Preferred Date",
+  "content-firstMessage": "Message",
+
+  "btn-report": "Report",
+  "btn-review": "Review",
+  "btn-review-sp": "Review",
+
+  "span-error-message": "Unable to send the message",
+  "btn-resend": "Resend",
+  "btn-delete": "Delete",
+
+  "community-box-left-title": "Group Chat",
+  "community-box-left-input-search-placeholder": "Search Group Chats",
+  "community-no-messages-start-chat": "Let's start a conversation!",
+
+  "popup": {
+    "reason-for-reporting": "Reason for Reporting",
+    "required": "Required",
+    "background-to-the-report": "Background to the Report",
+    "text-confirm-report": "Pressing the Report button will send a report to the administration. Are you sure you want to report?",
+    "send-report": "Send Report",
+    "cancel": "Cancel",
+    "thanks-report1": "Thank you for cooperating with the report.",
+    "thanks-report2": "Our team will strive to improve the service.",
+    "home": "Go to Home",
+    "evaluation": "Evaluation",
+    "report": "Report",
+    "anonymous": "Anonymous",
+    "comment": "Comment",
+    "check-review": "Check Review",
+    "post-review": "Post Review",
+    "review": "Review",
+    "report_user": "Report to Administration",
+    "to-fix": "Fix",
+    "twitter": "Tweet",
+    "text-thanks-review": "Thank you for posting a review!",
+    "text-share-review": "Share your review on Twitter!",
+    "form": {
+      "placeholder": {
+        "reason-for-reporting": "Select one",
+        "background-to-the-report": "Please provide details on the reason for reporting.",
+        "comment": "Enter within 400 characters."
+      },
+      "it-was-good": "It was good",
+      "it-was-bad": "It was bad",
+      "report-management": "Report to Administration",
+      "post-anonymously": "Post Anonymously",
+      "report-management-null": "Do not report",
+      "post-anonymously-null": "Not in use"
+    }
+  }
+}

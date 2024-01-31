@@ -1,0 +1,18 @@
+{
+  "input-tag-placeholder": "Free word search",
+  "label-checkbox-1": "Exclude participating communities",
+  "span-create-community-direction": "If you want to create a community, click here",
+  "btn-create-community": "Create Community",
+  "title": "Community List",
+  "sort-by": "Sort by",
+  "recommend-order": "Recommended Order",
+  "latest-order": "Latest Order",
+  "btn-search": "Search",
+  "btn-clear-condition": "Clear Search Conditions",
+  "box-item": {
+    "number-of-participant": "Participants: 0"
+  },
+  "validate-search-form": {
+    "input-length": "Please enter within 20 characters."
+  }
+}

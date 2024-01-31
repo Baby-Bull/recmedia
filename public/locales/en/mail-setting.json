@@ -1,0 +1,13 @@
+{
+  "configuration": "Configuration",
+  "email-address-setting": "Email Address Setting",
+  "notification-settings": "Notification Settings",
+  "email-reception-settings": "Email Reception Settings",
+  "message-notification": "Message Notification",
+  "recommendation-notification": "Recommendation Notification",
+  "save-changes": "Save Changes",
+  "mail-setting-description": "We will send a URL for resetting to the newly set email address.",
+  "your-current-email-address": "Your Current Email Address",
+  "new-email-address": "New Email Address",
+  "send": "Send"
+}

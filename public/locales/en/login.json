@@ -1,0 +1,23 @@
+{
+  "left": {
+    "title": "Request from Goodhub",
+    "box-01": {
+      "left": "Engineer Only",
+      "right": "※ Please refrain from registering if you are an agent, etc."
+    },
+    "box-02": "Please follow the Give & Given spirit",
+    "box-03": "Please cooperate for pleasant communication"
+  },
+  "right": {
+    "title": "SNS Login",
+    "description": "You will be registered with your SNS account. If you don't have an SNS account, please register for one first.",
+    "register-git": "Login with Github",
+    "register-google": "Login with Google",
+    "register-twitter": "Login with Twitter",
+    "click-at": "For those who already have an account, click",
+    "register": "here"
+  },
+  "cannot-login": "If you cannot log in, please",
+  "contact-us": "contact us.",
+  "register": "here"
+}
